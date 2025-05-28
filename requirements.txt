@@ -8,6 +8,8 @@ flask
 openai
 azure-identity
 azure-keyvault-secrets
+azure-kusto-data
+azure-kusto-ingest
 python-dotenv
 vega_datasets
 litellm
